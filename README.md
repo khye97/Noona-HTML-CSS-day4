@@ -4,3 +4,4 @@ https://hyejinkim-html-css-day4.netlify.app/
 
 # 사용된 기술
 - HTML
+- CSS
