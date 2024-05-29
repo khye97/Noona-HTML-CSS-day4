@@ -46,3 +46,20 @@ a:hover {
 .icon-dots {
   vertical-align: middle;
 }
+
+
+/* main */
+.main-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-box img {
+  width: 272px;
+  display: block;
+}
+
+.main-box input {
+  margin: 25px 0;
+}
