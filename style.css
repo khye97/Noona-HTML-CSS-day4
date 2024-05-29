@@ -63,3 +63,33 @@ a:hover {
 .main-box input {
   margin: 25px 0;
 }
+
+
+/* footer */
+.footer {
+  background-color: #ccc;
+  /* position: fixed;
+  bottom: 0; */
+  width: 100%;
+}
+
+.country {
+  height: 50px;
+  line-height: 50px;
+  margin-left: 30px;
+}
+
+.footer-box {
+  display: flex;
+  border-top: 1px solid black;
+  height: 50px;
+  line-height: 50px;
+}
+
+.footer-left {
+  margin-left: 20px;
+}
+
+.footer-right {
+  margin: 0 20px 0 auto;
+}
