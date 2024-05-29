@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+/* navbar */
+.nav {
+  height: 50px;
+  background-color: #eee;
+  display: flex;
+  height: 50px;
+  line-height: 50px;
+}
+
+.nav-left {
+  background-color: beige;
+  margin-left: 10px;
+}
+
+.nav-right {
+  background-color: gold;
+  display: flex;
+  margin: 0 10px 0 auto;
+}
+
+a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.nav-icon-box {
+  line-height: 55px;
+}
+
+.icon-dots {
+  vertical-align: middle;
+}
